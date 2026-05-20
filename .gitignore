@@ -1,0 +1,8 @@
+artifacts/
+.codex/state/
+__pycache__/
+*.pyc
+.idea/
+.venv/
+*.docx
+*.log
